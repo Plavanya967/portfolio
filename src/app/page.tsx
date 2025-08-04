@@ -20,7 +20,7 @@ export default function Home() {
       <img
         src="/IMG-20250421-WA0005[1].png"
         alt="Lavanya Pagidipalli profile"
-        className="fixed w-100 h-150  object-cover  z-0 hidden sm:block md:w-50 lg:w-100 lg:h-150 xl:w-150 "
+        className="fixed w-100 h-150  object-cover  z-0 hidden sm:block md:w-50 lg:w-100 lg:h-150 "
       />
       <div className="flex-1 flex items-center justify-end">
         <main className="w-full max-w-4xl flex flex-col gap-16 lg:py-14 lg:px-14 sm:py-24 md:px-54  sm:px-12 border border-blue-200 dark:border-blue-900 shadow-2xl bg-white/90 dark:bg-gray-900/90">
