@@ -8,7 +8,7 @@ const Contact: React.FC = () => (
       <h2 id="contact-title" className="text-3xl sm:text-4xl font-bold mb-8 text-[#222] dark:text-[#f6f5f2]">Contact</h2>
       <div className="mb-8 text-[#7a6e57] dark:text-[#e0d7c6] text-base space-y-2">
         <p>Email: <a href="mailto:your.email@example.com" className="underline hover:text-[#b6a98c]">pagidipallil1@gmail.com</a></p>
-        <p>Location: Your City, Country</p>
+        <p>Location: AI Wukair,  Qatar </p>
         <p>Phone: <a href="tel:+1234567890" className="underline hover:text-[#b6a98c]">+974 77328971</a></p>
       </div>
       <form className="flex flex-col gap-4 bg-white/90 dark:bg-gray-800/90 border border-[#e0d7c6] dark:border-[#222] rounded-2xl shadow p-6">
